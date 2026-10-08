@@ -1,0 +1,231 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2026-10-08T07:12:04.251119+00:00",
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/KajsaLedesma/FAIR_course_example",
+    "code:developmentStatus": {
+      "id": "wip",
+      "title": {
+        "en": "Wip"
+      }
+    },
+    "code:programmingLanguage": [
+      {
+        "id": "python",
+        "title": {
+          "en": "Python"
+        }
+      }
+    ]
+  },
+  "expires_at": "2026-10-08 07:12:04.251108+00:00",
+  "files": {
+    "count": 1,
+    "enabled": true,
+    "entries": {
+      "KajsaLedesma/FAIR_course_example-v1.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:413e6a6d89fa85c4a500cb6670725216",
+        "ext": "zip",
+        "id": "72aa57fc-1262-420a-b42a-553c716cd82c",
+        "key": "KajsaLedesma/FAIR_course_example-v1.zip",
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 1304,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 1304
+  },
+  "id": "617846",
+  "is_draft": true,
+  "is_published": true,
+  "links": {
+    "access": "https://sandbox.zenodo.org/api/records/617846/access",
+    "access_grants": "https://sandbox.zenodo.org/api/records/617846/access/grants",
+    "access_links": "https://sandbox.zenodo.org/api/records/617846/access/links",
+    "access_request": "https://sandbox.zenodo.org/api/records/617846/access/request",
+    "access_users": "https://sandbox.zenodo.org/api/records/617846/access/users",
+    "archive": "https://sandbox.zenodo.org/api/records/617846/draft/files-archive",
+    "archive_media": "https://sandbox.zenodo.org/api/records/617846/draft/media-files-archive",
+    "communities": "https://sandbox.zenodo.org/api/records/617846/communities",
+    "communities-suggestions": "https://sandbox.zenodo.org/api/records/617846/communities-suggestions",
+    "doi": "https://handle.test.datacite.org/10.5072/zenodo.617846",
+    "file_modification": "https://sandbox.zenodo.org/api/records/617846/file-modification",
+    "files": "https://sandbox.zenodo.org/api/records/617846/draft/files",
+    "media_files": "https://sandbox.zenodo.org/api/records/617846/draft/media-files",
+    "parent_doi": "https://handle.test.datacite.org/10.5072/zenodo.617845",
+    "parent_doi_html": "https://sandbox.zenodo.org/doi/10.5072/zenodo.617845",
+    "preview_html": "https://sandbox.zenodo.org/records/617846?preview=1",
+    "publish": "https://sandbox.zenodo.org/api/records/617846/draft/actions/publish",
+    "quota_increase": "https://sandbox.zenodo.org/api/records/617846/quota-increase",
+    "record": "https://sandbox.zenodo.org/api/records/617846",
+    "record_html": "https://sandbox.zenodo.org/records/617846",
+    "request_deletion": "https://sandbox.zenodo.org/api/records/617846/request-deletion",
+    "requests": "https://sandbox.zenodo.org/api/records/617846/requests",
+    "reserve_doi": "https://sandbox.zenodo.org/api/records/617846/draft/pids/doi",
+    "review": "https://sandbox.zenodo.org/api/records/617846/draft/review",
+    "self": "https://sandbox.zenodo.org/api/records/617846/draft",
+    "self_doi": "https://handle.test.datacite.org/10.5072/zenodo.617846",
+    "self_html": "https://sandbox.zenodo.org/uploads/617846",
+    "self_iiif_manifest": "https://sandbox.zenodo.org/api/iiif/draft:617846/manifest",
+    "self_iiif_sequence": "https://sandbox.zenodo.org/api/iiif/draft:617846/sequence/default",
+    "versions": "https://sandbox.zenodo.org/api/records/617846/versions"
+  },
+  "media_files": {
+    "count": 0,
+    "enabled": false,
+    "entries": {},
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "KajsaLedesma",
+          "name": "KajsaLedesma",
+          "type": "personal"
+        }
+      }
+    ],
+    "dates": [
+      {
+        "date": "2026-10-08",
+        "description": "Repo issued",
+        "type": {
+          "id": "issued",
+          "title": {
+            "de": "Ver\u00f6ffentlicht",
+            "en": "Issued"
+          }
+        }
+      }
+    ],
+    "description": "Tmp repository for DDLS FAIRcourse",
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "publication_date": "2026-10-08",
+    "publisher": "Zenodo",
+    "references": [
+      {
+        "reference": "ddls-rs_fair_course"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/KajsaLedesma/FAIR_course_example/tree/v1",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Erg\u00e4nzt",
+            "en": "Is supplement to"
+          }
+        },
+        "resource_type": {
+          "id": "software",
+          "title": {
+            "de": "Software",
+            "en": "Software"
+          }
+        },
+        "scheme": "url"
+      }
+    ],
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code."
+        },
+        "id": "mit",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://opensource.org/licenses/MIT"
+        },
+        "title": {
+          "en": "MIT License"
+        }
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "TEST"
+      },
+      {
+        "subject": "DDLS-RS"
+      },
+      {
+        "subject": "FAIR"
+      }
+    ],
+    "title": "KajsaLedesma/FAIR_course_example: v1",
+    "version": "v1"
+  },
+  "parent": {
+    "access": {
+      "grants": [],
+      "links": [],
+      "owned_by": {
+        "user": "62062"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "id": "617845",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5072/zenodo.617845",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5072/zenodo.617846",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:617846",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 18,
+  "status": "published",
+  "updated": "2026-10-08T07:39:43.926695+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true,
+    "is_latest_draft": true
+  }
+}
